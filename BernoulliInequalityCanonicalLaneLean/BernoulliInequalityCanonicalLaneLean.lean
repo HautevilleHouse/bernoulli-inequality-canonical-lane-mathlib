@@ -1,0 +1,14 @@
+import BernoulliInequalityCanonicalLaneLean.BernoulliObjects
+import BernoulliInequalityCanonicalLaneLean.BernoulliBridgeLemmas
+import BernoulliInequalityCanonicalLaneLean.BernoulliGateLemmas
+import BernoulliInequalityCanonicalLaneLean.BernoulliFinalTheorem
+import BernoulliInequalityCanonicalLaneLean.BernoulliStandardProof
+import BernoulliInequalityCanonicalLaneLean.BernoulliConvexProof
+
+namespace HautevilleHouse
+namespace BernoulliInequalityCanonicalLaneLean
+
+-- Root file for the Bernoulli Inequality canonical lane package.
+
+end BernoulliInequalityCanonicalLaneLean
+end HautevilleHouse
